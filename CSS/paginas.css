@@ -1,0 +1,38 @@
+/* Arquivo css/paginas.css */
+:root {
+  --verde-claro: #a7d129;
+  --verde-medio: #8bbf1a;
+  --verde-escuro: #6a9c13;
+}
+/* Estilo geral do container */
+#container {
+    width: 80%; 
+    margin: 0 auto; 
+    font-family: Arial, sans-serif; 
+    background-color: #f0f0f0; 
+    padding: 20px; 
+    border-radius: 10px; 
+  }
+  
+  /* Estilo do título */
+  h1 {
+    color: #333; 
+    text-align: center; 
+  }
+  
+  /* Estilo do parágrafo */
+  p {
+    color: #555; 
+    text-align: center; 
+  }
+  
+  /* Estilo do link */
+  a {
+    text-align: center;
+    display: block; 
+    width: 100px; 
+    margin: 20px auto; 
+    padding: 10px; 
+    background-color: #333; 
+    color: #fff; 
+  }
